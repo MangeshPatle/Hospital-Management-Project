@@ -1,0 +1,44 @@
+
+Name= shailesh mishra
+age 28
+sallary 21000
+working position
+security
+-------------------------
+-------------------------
+Name= dr Rana
+age 39
+sallary 45,000/-
+working position
+senior doctor skin 
+-------------------------
+-------------------------
+
+Name= Dr.Waqar
+age 52
+sallary 70,000/-
+working position
+child specialist
+-------------------------
+-------------------------
+
+Name= dr.vilhekar
+age 45
+sallary 1,00,000
+working position
+eyes specialist-------------------------
+-------------------------
+
+Name= saniya
+age 18
+sallary 22000
+working position
+nerse-------------------------
+-------------------------
+
+Name= cd "e:\collage subjects\CM402-E--OOP\project\hosp
+age 
+sallary 
+working position
+-------------------------
+-------------------------
